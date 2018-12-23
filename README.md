@@ -23,7 +23,7 @@ In this repository you will find a folder for each section we cover. Inside each
 
 
 ## Quizzes
-The quizzes this semester will be slightly different than last smester. The quizzes this semester will be shorter, but they will have questions that may or may not be answered directly in the book; you may have to think about some of them. We will be doing the quizzes through git/bitbucket; for more see https://bitbucket.org/homeschooltech/quizzes
+The quizzes this semester will be slightly different than last smester. The quizzes this semester will be shorter, but they will have questions that may or may not be answered directly in the book; you may have to think about some of them. We will be doing the quizzes through git/bitbucket; for more see https://github.org/HomeschoolTech/Quizzes
 
 ## Review Assignments
 The review assignments are intended to be short simple programming assignments. The point of them is for you to write them *on your own.* Do your best to complete them without asking or looking for help. For these assignments, you will mostly start from scratch and they will be submitted through git/bitbucket. There will be a repository for each assignment.
